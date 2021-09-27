@@ -1,0 +1,28 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+    background-color:#fca311;
+    height: 64px;
+    padding: 0 1rem;
+}
+#text{
+    color:rgb(250, 250, 250);
+    font-size: small;
+}
+
+.navigationButton {
+    padding: 10px;
+    background: whitesmoke;
+    margin: 1rem;
+    font-size: 15px;
+    border-color: aqua ;
+    outline: 1;
+    cursor: pointer;
+    border-radius:'10px' ;
+}
+
+.background{
+background-color: '14213d';    
+}
