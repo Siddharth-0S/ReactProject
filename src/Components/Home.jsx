@@ -34,7 +34,7 @@ function Home() {
             paddingBottom:'2px',
             display:'contents',
         }}> Third Year Undergraduate Student <br/>
-            at Bharti Vidhyapeeth deemed University <br/>
+            at Bharti Vidhyapeeth (deemed) University <br/>
                 College of Engineering,Pune.<br/> </h1>
             
             <p style={{
