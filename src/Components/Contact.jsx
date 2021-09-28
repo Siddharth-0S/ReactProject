@@ -22,7 +22,7 @@ function Contact() {
                 margin:'auto',
             }}>
                 <a href=' https://www.linkedin.com/in/siddharth-maheshwari-85697b202?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw86%2BRfmFRQy9RC9dnehvpA%3D%3D'>
-            LinkdIn Profile </a>
+            LinkedIn Profile </a>
                 </h1>
                    
             <h2 style={{
@@ -32,7 +32,7 @@ function Contact() {
                 textAlign:'left',
                 margin:'auto',
             }}>
-                <a href='mailto: siddmhswri5@gmail.com'>Email me!</a>
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=siddmhswri5@gmail.com" target="_blank">Email me!</a>
                 </h2>
             
                 <div className='foot'>
