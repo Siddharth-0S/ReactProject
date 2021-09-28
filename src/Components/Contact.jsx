@@ -32,7 +32,7 @@ function Contact() {
                 textAlign:'left',
                 margin:'auto',
             }}>
-                <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=siddmhswri5@gmail.com" target="_blank">Email me!</a>
+                <a href='mailto: siddmhswri5@gmail.com'>Email me!</a>
                 </h2>
             
                 <div className='foot'>
