@@ -26,3 +26,10 @@
 .background{
 background-color: '14213d';    
 }
+
+.center{
+    display:'flex';
+    justify-content: center;
+    align-items: center;
+    
+}
