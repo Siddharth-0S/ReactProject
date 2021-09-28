@@ -32,12 +32,14 @@ function Home() {
             <h1 style={{
             color: 'pale white',
             fontSize: '25px',
-            backgroundColor: 'fbfffe',
-            textAlign:'center',
+            backgroundColor: '#fbfffe',
             fontWeight:'normal',
             paddingBottom:'2px',
-            paddingTop:'3px',
-            display:'contents',
+            paddingTop:'10px',
+            margin:'auto',
+            display:'block',
+            width:'fit-content',
+            textAlign:'center',
         }}> Third Year Undergraduate Student <br/>
             at Bharti Vidhyapeeth (deemed) University <br/>
                 College of Engineering,Pune.<br/> </h1>
@@ -46,13 +48,17 @@ function Home() {
             color: 'pale white',
             fontSize: '24px',
             backgroundColor: 'fbfffe',
-            textAlign:'center',
             fontWeight:'normal',
-            display:'contents'}}>
-                To be Engineer.<br/> 
+            display:'block',
+            margin:'auto',
+            width:'fit-content',
+            textAlign:'center',
+            paddingBottom:'20px',
+            paddingTop:'3px',}}>
+                To be Engineer.<br/>
                 Inquisitive, 
                 Team player, 
-                have good communication skills, 
+                have good communication skills,<br/> 
                 and a detail-oriented person.</p1>
                <div className='foot'>
                   <p style={{
