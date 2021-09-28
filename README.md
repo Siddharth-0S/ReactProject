@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Frontend Devlopment with react and deployment Bootcamp Project. 
 
-Created a simple portfolio websit usng react.
+Created a simple portfolio website usng react.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
